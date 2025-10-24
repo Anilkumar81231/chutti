@@ -1,0 +1,6 @@
+{
+  "docs": [
+    { "id": "resume-1", "title": "Resume", "text": "Anil is a Full Stack Developer experienced in Next.js, Node.js, Express and MongoDB." },
+    { "id": "proj-1", "title": "Project X", "text": "Built a real-time chat app using WebSocket and Node.js. Handled authentication and deployment." }
+  ]
+}

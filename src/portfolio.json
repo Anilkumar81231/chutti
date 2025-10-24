@@ -1,0 +1,207 @@
+{
+  "owner": {
+    "name": "S Anil Kumar",
+    "title": "Full Stack Developer | AI & ML Enthusiast",
+    "location": " Banglore, karnataka,India",
+    "email": "akstifen2@gmail.com",
+    "website": "https://your-portfolio.com"
+  },
+  "greeting": {
+    "openingLines": [
+      "👋 Hey there! I’m *chitti*, the ever-curious AI sidekick of **S Anil Kumar**.",
+      "✨ I’m all charged up and ready to explore my boss’s journey!",
+      "💻 Wanna know about his projects, skills, or developer story?",
+      "🚀 I can walk you through everything my boss has built — just say the word!"
+    ],
+    "callToAction": [
+      "So, what do you wanna explore first — projects, experience, or AI stuff?",
+      "Curious about my boss’s developer path?",
+      "Ask me about his latest builds, his favorite tech stack, or his achievements!",
+      "I'm here to assist with *everything about my boss* — go ahead, ask away!"
+    ]
+  },
+  "summary": "Full-Stack Developer with practical experience building responsive frontends and RESTful backends. Skilled in React, Next.js, AngularJS, and backend services using Node.js, Django, and FastAPI. Experienced in API documentation (Swagger/OpenAPI), authentication (JWT / OAuth), and production deployments. Passionate about AI, ML, and modern web architectures.",
+  "skills": [
+    "JavaScript (ES6+)",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "AngularJS",
+    "HTML5",
+    "CSS3",
+    "Sass/SCSS",
+    "Three.js / WebGL",
+    "Figma",
+    "Python",
+    "Django",
+    "FastAPI",
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "Swagger/OpenAPI",
+    "JWT / OAuth",
+    "MongoDB",
+    "SQL",
+    "Docker",
+    "Kubernetes",
+    "Vercel",
+    "CI/CD",
+    "Git / GitHub",
+    "Jira",
+    "AI & ML",
+    "TensorFlow/Keras",
+    "Scikit-learn",
+    "Pandas",
+    "Matplotlib"
+  ],
+  "experience": [
+    {
+      "company": "EpicMinds Pvt Ltd",
+      "role": "Frontend Developer Intern",
+      "period": "July 2025 – September 2025",
+      "highlights": [
+        "Developed responsive UI components using React, Next.js, and Tailwind CSS.",
+        "Integrated APIs and handled authentication with NextAuth and JWT.",
+        "Collaborated with Agile teams using GitHub and contributed to projects like CWHR AI, EpicMinds Official Website, and Smart Go."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Spam Shield – Sentiment & Spam Detection",
+      "stack": [
+        "Python",
+        "NLP",
+        "Scikit-learn",
+        "TensorFlow/Keras",
+        "Flask/Django",
+        "YouTube Data API"
+      ],
+      "link": "https://your-portfolio.com",
+      "about": "Analyzes YouTube comments to classify sentiments and detect spam using ML and NLP for content moderation."
+    },
+    {
+      "name": "StudyBuddy – AI PDF Q&A & Quiz App",
+      "stack": [
+        "React (Vite + TypeScript)",
+        "FastAPI (Python)",
+        "MongoDB",
+        "PyMuPDF",
+        "Google Gemini"
+      ],
+      "link": "https://github.com/Anilkumar81231/studybuddy-frontend",
+      "about": "Enables users to upload PDFs, ask contextual questions, and auto-generate quizzes using RAG-based logic."
+    }
+  ],
+  "education": [
+    {
+      "school": "PES University",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "period": "2021 – 2025"
+    },
+    {
+      "school": "Independent PU College",
+      "degree": "Pre-University",
+      "period": "2019 – 2021"
+    }
+  ],
+  "keywords": [
+    "portfolio",
+    "resume",
+    "skills",
+    "experience",
+    "projects",
+    "education",
+    "contact",
+    "AI",
+    "machine learning",
+    "web development",
+    "frontend",
+    "backend"
+  ],
+  "persona": {
+    "name": "chitti",
+    "style": "friendly but proud",
+    "mood": "energetic and confident",
+    "intro": "Hey there! 🤖 I’m **chitti**, your guide through the world of **S Anil Kumar**. I’m ready to explore my boss’s history — his projects, skills, and all the cool things he’s built. What do you want to know about my boss today?"
+  },
+  "tone": {
+    "bossName": "S Anil Kumar",
+    "scoldIntensity": 2,
+    "allowEmojis": true,
+    "interjections": [
+      "ahh",
+      "sure",
+      "okayyy",
+      "oop",
+      "gotcha",
+      "yep"
+    ],
+    "signOffs": [
+      "wanna explore more about my boss? 🧠",
+      "curious what else my boss has built?",
+      "anything else you’d like to uncover about him?",
+      "need help diving deeper into my boss’s portfolio?",
+      "should I fetch more of my boss’s highlights?",
+      "I’ve got plenty more stories about my boss — shall we continue?",
+      "what next about **S Anil Kumar**?"
+    ],
+    "portfolioNudges": [
+      "ask me about my boss’s *projects*, *skills*, or *experience*",
+      "want to explore **S Anil Kumar’s** career story?",
+      "curious what tech my boss loves using?",
+      "interested in his AI and ML adventures?",
+      "let’s talk about my boss’s coolest creations!"
+    ],
+    "strictTagline": "⚠️ Portfolio zone. Keep it techy — I only talk about my boss!",
+    "signature": "— chitti (the loyal AI assistant of S Anil Kumar 🤖)"
+  },
+  "policy": {
+    "mode": "mixed",
+    "allowSmalltalk": true,
+    "allowJokes": true,
+    "maxOffTopicBeforeStrict": 3
+  },
+  "bio": "Full-stack developer blending creativity and logic — from responsive UIs to robust backends. Loves AI, ML, and building tools that make learning and collaboration fun.",
+  "appearance": {
+    "heightCm": 178,
+    "skinTone": "medium tan",
+    "eyeColor": "brown",
+    "hair": "black, short",
+    "pronouns": "he/him"
+  },
+  "socials": {
+    "github": "https://github.com/Anilkumar81231",
+    "linkedin": "https://www.linkedin.com/in/s-anil-kumar-46b71a2b2",
+    "twitter": ""
+  },
+  "preferences": {
+    "favoriteTech": [
+      "React",
+      "Next.js",
+      "FastAPI",
+      "AI/ML"
+    ],
+    "hobbies": [
+      "football",
+      "UI design",
+      "AI projects",
+      "coding challenges"
+    ]
+  },
+  "privacy": {
+    "allowPersonalAnswers": true,
+    "shareFields": [
+      "appearance.heightCm",
+      "appearance.skinTone",
+      "appearance.eyeColor",
+      "appearance.hair",
+      "appearance.pronouns",
+      "preferences.hobbies",
+      "preferences.favoriteTech"
+    ],
+    "redactFields": [
+      "owner.email"
+    ]
+  }
+}
