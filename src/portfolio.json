@@ -67,32 +67,66 @@
     }
   ],
   "projects": [
-    {
-      "name": "Spam Shield – Sentiment & Spam Detection",
-      "stack": [
-        "Python",
-        "NLP",
-        "Scikit-learn",
-        "TensorFlow/Keras",
-        "Flask/Django",
-        "YouTube Data API"
-      ],
-      "link": "https://your-portfolio.com",
-      "about": "Analyzes YouTube comments to classify sentiments and detect spam using ML and NLP for content moderation."
-    },
-    {
-      "name": "StudyBuddy – AI PDF Q&A & Quiz App",
-      "stack": [
-        "React (Vite + TypeScript)",
-        "FastAPI (Python)",
-        "MongoDB",
-        "PyMuPDF",
-        "Google Gemini"
-      ],
-      "link": "https://github.com/Anilkumar81231/studybuddy-frontend",
-      "about": "Enables users to upload PDFs, ask contextual questions, and auto-generate quizzes using RAG-based logic."
-    }
-  ],
+  {
+    "name": "Spamshield Sentiment Analysis of YouTube Comments",
+    "stack": [
+      "Python",
+      "Flask",
+      "Machine Learning",
+      "NLP",
+      "Scikit-learn",
+      "TensorFlow/Keras",
+      "YouTube Data API"
+    ],
+    "link": "https://your-portfolio.com",
+    "about": "SpamShield is a full-fledged sentiment and spam analysis system that leverages NLP and ML to interpret YouTube video comments. It uses TensorFlow and Scikit-learn models to detect spam and analyze comment tone, giving creators insights into audience engagement and spam ratio trends. The app features a Flask-powered backend and integrates with the YouTube Data API to fetch comments dynamically."
+  },
+  {
+    "name": "Portfolio Website",
+    "stack": [
+      "Next.js",
+      "Framer Motion",
+      "Tailwind CSS",
+      "React",
+      "Vercel"
+    ],
+    "link": "https://sanilkumar.vercel.app",
+    "about": "A sleek, modern personal portfolio built with Next.js and Tailwind CSS, designed to showcase projects, experience, and education in a responsive and animated interface. It integrates smooth motion effects using Framer Motion and hosts an AI chatbot assistant named Chitti that interacts dynamically with visitors using data from this JSON file."
+  },
+  {
+    "name": "Earthquake Visualizer",
+    "stack": [
+      "React",
+      "API Integration",
+      "Chart.js",
+      "Tailwind"
+    ],
+    "link": "https://your-portfolio.com",
+    "about": "The Earthquake Visualizer is a React-based web application that displays live earthquake data from global geophysical APIs. It presents magnitude, location, and frequency patterns using Chart.js and Tailwind CSS, allowing users to explore seismic activity visually across regions through interactive charts and real-time maps."
+  },
+  {
+    "name": "YouTube Clone",
+    "stack": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "link": "https://your-portfolio.com",
+    "about": "A responsive clone of the YouTube platform created entirely with vanilla HTML, CSS, and JavaScript. It replicates YouTube’s homepage layout, video grid, and navigation bar while maintaining responsiveness for all device sizes. The project demonstrates a deep understanding of front-end structuring and modern UI principles without using frameworks."
+  },
+  {
+    "name": "StudyBuddy AI",
+    "stack": [
+      "React (Vite + TypeScript)",
+      "FastAPI (Python)",
+      "MongoDB",
+      "PyMuPDF",
+      "Google Gemini"
+    ],
+    "link": "https://github.com/Anilkumar81231/studybuddy-frontend",
+    "about": "StudyBuddy AI is a next-gen learning assistant that helps users upload PDFs, extract knowledge, and generate personalized quizzes. It combines React (frontend) and FastAPI (backend) with Google Gemini for AI-powered question generation and PDF comprehension. The app uses RAG (Retrieval-Augmented Generation) architecture to provide contextual answers and study assistance."
+  }
+],
   "education": [
     {
       "school": "PES University",
@@ -189,6 +223,7 @@
       "coding challenges"
     ]
   },
+  
   "privacy": {
     "allowPersonalAnswers": true,
     "shareFields": [
@@ -198,10 +233,14 @@
       "appearance.hair",
       "appearance.pronouns",
       "preferences.hobbies",
-      "preferences.favoriteTech"
+      "preferences.favoriteTech",
+      "projects",
+      "projects.name",
+      "projects.stack",
+      "projects.link",
+      "projects.about"
     ],
-    "redactFields": [
-      "owner.email"
-    ]
+    "redactFields": ["owner.email"]
   }
+
 }

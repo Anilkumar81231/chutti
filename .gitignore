@@ -14,3 +14,15 @@ logs/
 # Build artifacts
 dist/
 out/
+
+
+
+node_modules/
+.env
+.env.local
+npm-debug.log
+.DS_Store
+logs/
+*.log
+dist/
+out/
